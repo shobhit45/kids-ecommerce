@@ -1,5 +1,5 @@
 // const mongoose = require('mongoose');
-// const password = 'st9232456';
+// const password = '';
 // const mongoURI = `mongodb+srv://shobhitt451:${password}cluster0.jxty430.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`
 
 // mongoose.set('strictQuery', false);
