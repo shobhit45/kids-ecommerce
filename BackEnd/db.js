@@ -19,7 +19,7 @@
 
 
 const mongoose = require('mongoose');
-const password = 'st9232456';
+const password = '';
 const mongoURI = `mongodb+srv://shobhitt451:${password}@cluster0.jxty430.mongodb.net/test?retryWrites=true&w=majority`;
 
 mongoose.set('strictQuery', false);
